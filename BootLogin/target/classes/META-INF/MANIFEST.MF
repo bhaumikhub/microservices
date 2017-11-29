@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BootLogin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dark knight
+Implementation-Vendor-Id: com.dev.bootsecurity
+Build-Jdk: 1.8.0_25
+Implementation-URL: http://projects.spring.io/spring-boot/BootLogin/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
